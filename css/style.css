@@ -38,6 +38,10 @@ src: url("../fonts/BalooChettan-Regular.ttf");
 html {
      scroll-behavior: smooth;
 }
+.destop_header {
+     height: 150px;
+     background-color: #64cdf0; 
+
 
 body {
      color: #4954f4;
